@@ -19,3 +19,4 @@ This project was part of my Data Science for Business degree at BI Norwegian Bus
 You can find the full SQL scripts in the `scripts/` folder.
 1. Run `schema.sql` to create the tables.
 2. Run `insert_data.sql` to populate the sample database.
+3. View live SQL demo here: https://www.db-fiddle.com/f/wqNfgRDhDQk7GG2WgybsTJ/0
