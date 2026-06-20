@@ -14,3 +14,4 @@ Designed and implemented a full-stack data solution for a professional workshop 
 - **Database:** SQLite
 - **Libraries:** Pandas, Matplotlib (for satisfaction plotting)
 - **Modeling:** ER Diagram, Relational Schema (3NF)
+<img width="1139" height="490" alt="Screenshot 2026-06-20 at 21 10 47" src="https://github.com/user-attachments/assets/3698ceab-3637-43e9-9901-91f41a7b2dfb" />
