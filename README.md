@@ -1,22 +1,20 @@
-# Event-Database-SQL-Project
-A relational database designed to manage event logistics, participants, and feedback using SQL
-# Relational Database Design for Information Management
+# Relational Database & Business Analytics Project
 
-## Project Overview
-This project was part of my Data Science for Business degree at BI Norwegian Business School. The goal was to design and implement a relational database to manage complex event logistics, ensuring data integrity and optimized reporting.
+## Overview
+This project demonstrates my ability to design complex data systems and automate business workflows. It was developed as part of my Data Science for Business degree at BI Norwegian Business School.
 
-##  Tech Stack
-- **Database:** SQLite
-- **Modeling:** ER Diagram, Relational Schema
-- **Language:** SQL (DDL, DML)
+## Project Structure
+- **Database-Design-Schema.pdf**: Contains the ER Diagram and Relational Schema. This shows the logic behind how entities (Participants, Sessions, Roles) interact.
+- **event_management.db**: A functional SQLite database containing structured information.
+- **Data-Analysis-and-Automation.ipynb**: Python scripts used to interact with the database, handle business constraints, and generate reports.
 
-##  Key Features
-- **ER Diagram:** Designed a multi-entity relationship model (Participants, Sessions, Roles).
-- **Business Constraints:** Handled parallel sessions, dietary restrictions, and specific role permissions (Organizers vs. Speakers).
-- **Integrity:** Implemented Primary Keys, Foreign Keys, and CHECK constraints.
+## Skills Demonstrated
+- **Information Architecture:** Designing systems that ensure data integrity (Primary/Foreign Keys, Constraints).
+- **Python for Business:** Using Python to automate data population and retrieval.
+- **SQL (DDL/DML):** Advanced querying to extract market-like insights.
 
-##  How to use
-You can find the full SQL scripts in the `scripts/` folder.
-1. Run `schema.sql` to create the tables.
-2. Run `insert_data.sql` to populate the sample database.
-3. View live SQL demo here: https://www.db-fiddle.com/f/wqNfgRDhDQk7GG2WgybsTJ/0
+## Why this is relevant for Kyoto Group
+In a Business Development role, managing leads and industrial data requires a structured approach. This project proves that I can:
+1. Build and manage a **CRM-like database** from scratch.
+2. Use **Python** to analyze customer/market data efficiently.
+3. Translate complex business requirements into **logical data models**.
