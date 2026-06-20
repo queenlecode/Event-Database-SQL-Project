@@ -1,4 +1,4 @@
-<img width="1025" height="581" alt="Screenshot 2026-06-20 at 21 11 49" src="https://github.com/user-attachments/assets/c2e15c5d-2277-4e35-b5ca-b5c208456ee6" />
+
 # AI Workshop Management & Analytics System
 
 ## Project Context
@@ -16,3 +16,4 @@ Designed and implemented a full-stack data solution for a professional workshop 
 - **Libraries:** Pandas, Matplotlib (for satisfaction plotting)
 - **Modeling:** ER Diagram, Relational Schema (3NF)
 <img width="1139" height="490" alt="Screenshot 2026-06-20 at 21 10 47" src="https://github.com/user-attachments/assets/3698ceab-3637-43e9-9901-91f41a7b2dfb" />
+<img width="1025" height="581" alt="Screenshot 2026-06-20 at 21 11 49" src="https://github.com/user-attachments/assets/c2e15c5d-2277-4e35-b5ca-b5c208456ee6" />
