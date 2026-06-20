@@ -1,3 +1,4 @@
+<img width="1025" height="581" alt="Screenshot 2026-06-20 at 21 11 49" src="https://github.com/user-attachments/assets/c2e15c5d-2277-4e35-b5ca-b5c208456ee6" />
 # AI Workshop Management & Analytics System
 
 ## Project Context
