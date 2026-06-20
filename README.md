@@ -1,20 +1,16 @@
-# Relational Database & Business Analytics Project
+# AI Workshop Management & Analytics System
 
-## Overview
-This project demonstrates my ability to design complex data systems and automate business workflows. It was developed as part of my Data Science for Business degree at BI Norwegian Business School.
+## Project Context
+Designed and implemented a full-stack data solution for a professional workshop on "AI and Society." This project covers the entire data lifecycle: from architectural design to automated business logic and satisfaction analytics.
 
-## Project Structure
-- **Database-Design-Schema.pdf**: Contains the ER Diagram and Relational Schema. This shows the logic behind how entities (Participants, Sessions, Roles) interact.
-- **event_management.db**: A functional SQLite database containing structured information.
-- **Data-Analysis-and-Automation.ipynb**: Python scripts used to interact with the database, handle business constraints, and generate reports.
+## Key Technical Challenges Solved
+- **Conflict Management Logic:** Built a Python-based check-in system that prevents scheduling overlaps (ensuring a participant cannot attend two parallel sessions).
+- **Relational Integrity:** Architected a 3NF database to manage complex relationships between Organizers (Chairs), Speakers, and Participants.
+- **Automated Validation:** Implemented business rules using SQL & Python to ensure that only eligible participants could rate sessions, preventing data bias.
+- **Data Visualization:** Developed a reporting module to visualize session satisfaction scores for stakeholder review.
 
-## Skills Demonstrated
-- **Information Architecture:** Designing systems that ensure data integrity (Primary/Foreign Keys, Constraints).
-- **Python for Business:** Using Python to automate data population and retrieval.
-- **SQL (DDL/DML):** Advanced querying to extract market-like insights.
-
-## Why this is relevant for Kyoto Group
-In a Business Development role, managing leads and industrial data requires a structured approach. This project proves that I can:
-1. Build and manage a **CRM-like database** from scratch.
-2. Use **Python** to analyze customer/market data efficiently.
-3. Translate complex business requirements into **logical data models**.
+## Tech Stack
+- **Languages:** SQL, Python
+- **Database:** SQLite
+- **Libraries:** Pandas, Matplotlib (for satisfaction plotting)
+- **Modeling:** ER Diagram, Relational Schema (3NF)
